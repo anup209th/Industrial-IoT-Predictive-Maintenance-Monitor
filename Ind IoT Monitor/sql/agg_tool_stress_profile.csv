@@ -1,0 +1,5 @@
+wear_tier,total_machines,failure_count,avg_power_kw,avg_temp_diff_k,failure_rate_pct
+01. Low Wear (0-60m),2810,58,6.26,10.01,2.06
+02. Moderate Wear (60-120m),2778,70,6.32,10.00,2.52
+03. High Wear (121-180m),2734,57,6.26,10.00,2.08
+04. Critical Wear (>180m),1678,154,6.28,9.98,9.18

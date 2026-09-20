@@ -1,0 +1,4 @@
+product_type,total_units,total_failures,heat_dissipation_failures,power_failures,overstrain_failures,tool_wear_failures,random_failures,failure_rate_pct
+L,6000,235,76,59,87,25,13,3.92
+M,2997,83,31,31,9,14,2,2.77
+H,1003,21,8,5,2,7,4,2.09
